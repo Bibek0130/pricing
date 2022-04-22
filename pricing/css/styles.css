@@ -424,7 +424,7 @@ line-height: 28px;
 
 color: #FFFFFF;
 }
-span{
+.company{
 position: absolute;
 width: 145px;
 height: 22px;
@@ -435,6 +435,10 @@ font-size: 18px;
 line-height: 21px;
 
 color: #AEAEAE;
+}
+.connect{
+  top: 281px;
+  left: 1106px;
 }
 
 /* footer div */
